@@ -1,0 +1,6 @@
+- VirtualBox
+- Wireshark
+- ClamAV
+- Python3 + pip
+- nmap
+- openssh-server
